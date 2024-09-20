@@ -1,4 +1,4 @@
-# Text Editor
+# LiText Text Editor
 
 A simple and lightweight Text Editor built using HTML, CSS, and JavaScript. This project provides basic text editing features such as bold, italic, underline, and more, making it suitable for simple content editing needs.
 
